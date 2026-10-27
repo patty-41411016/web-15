@@ -1,0 +1,6 @@
+{
+  "name": "ok HOTEL 渡假飯店 | 應許運河與西班牙莊園渡假體驗",
+  "description": "ok HOTEL 渡假飯店官方網站，坐落於花東縱谷萬坪綠意與 2.2 公里應許運河之間，提供西班牙高第風格套房、豐之谷自然生態公園、遊艇巡航、周邊景點導覽與多元支付線上訂房服務。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
